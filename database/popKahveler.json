@@ -1,0 +1,37 @@
+[{
+        "markaurl": "/caffe-fresco",
+        "sepette": "Caffe Fresco All Day Blend",
+        "image": "https://kahhvecom.imgix.net/urunler/796_1550056308_k43.jpg",
+        "url": "/caffe-fresco-all-day-blend-kahveler",
+        "title": "ALL DAY BLEND",
+        "marka": "CAFFE FRESCO",
+        "fiyat": 21.99
+    },
+    {
+        "markaurl": "/coffee-sapiens",
+        "sepette": "Coffee Sapiens Evolution Blend",
+        "image": "https://kahhvecom.imgix.net/urunler/55_1521108632_Txj.jpg",
+        "url": "/coffee-sapiens-evolution-blend-kahveler",
+        "title": "EVOLUTION BLEND",
+        "marka": "COFFEE SAPIENS",
+        "fiyat": 39.99
+    },
+    {
+        "markaurl": "/cool-beans",
+        "sepette": "Cool Beans Costa Rica",
+        "image": "https://kahhvecom.imgix.net/urunler/67_1444945568_pN1.jpg",
+        "url": "/cool-beans-costa-rica-kahveler",
+        "title": "COSTA RICA",
+        "marka": "COOL BEANS",
+        "fiyat": 44.99
+    },
+    {
+        "markaurl": "/urban-grind",
+        "sepette": "Urban Grind Guatemala Santa Barbara",
+        "image": "https://kahhvecom.imgix.net/urunler/668_1550484839_u9J.jpg",
+        "url": "/urban-grind-guatemala-santa-barbara-kahveler",
+        "title": "GUATEMALA SANTA BARBARA",
+        "marka": "URBAN GRIND",
+        "fiyat": 49.99
+    }
+]

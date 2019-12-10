@@ -1,0 +1,22 @@
+[
+    {
+        "isAvailable": true,
+        "markaurl": "/coffee-sapiens",
+        "sepette": "Coffee Sapiens Evolution Blend",
+        "image": "https://kahhvecom.imgix.net/urunler/55_1521108632_Txj.jpg",
+        "url": "/coffee-sapiens-evolution-blend-kahveler",
+        "title": "Evolution Blend",
+        "marka": "Coffee Sapiens",
+        "fiyat": 39.99
+    },
+    {
+        "isAvailable": true,
+        "markaurl": "/coffee-sapiens",
+        "sepette": "Coffee Sapiens Mutation Blend",
+        "image": "https://kahhvecom.imgix.net/urunler/54_1521108565_3mn.jpg",
+        "url": "/coffee-sapiens-mutation-blend-kahveler",
+        "title": "Mutation Blend",
+        "marka": "Coffee Sapiens",
+        "fiyat": 49.99
+    }
+]

@@ -1,0 +1,37 @@
+[{
+        "markaurl": "/hario",
+        "sepette": "Hario Kettle Buono 1.0 LT",
+        "image": "https://kahhvecom.imgix.net/urunler/361_1469013202_cZg.jpg",
+        "url": "/hario-kettle-buono-10-lt-kahve-demleme-ekipmanlari",
+        "title": "KETTLE BUONO 1.0 LT",
+        "marka": "HARIO",
+        "fiyat": 279.99
+    },
+    {
+        "markaurl": "/hario",
+        "sepette": "Hario Mizudashi Soğuk Demleme",
+        "image": "https://kahhvecom.imgix.net/urunler/198_1444597118_LnY.jpg",
+        "url": "/hario-mizudashi-soguk-demleme-kahve-demleme-ekipmanlari",
+        "title": "MIZUDASHI SOĞUK DEMLEME",
+        "marka": "HARIO",
+        "fiyat": 139.99
+    },
+    {
+        "markaurl": "/hario",
+        "sepette": "Hario Mini Mill Plus Skerton Öğütücü",
+        "image": "https://kahhvecom.imgix.net/urunler/751_1561111234_Gug.jpg",
+        "url": "/hario-mini-mill-plus-skerton-ogutucu-kahve-degirmenleri",
+        "title": "MINI MILL PLUS SKERTON ÖĞÜTÜCÜ",
+        "marka": "HARIO",
+        "fiyat": 229.99
+    },
+    {
+        "markaurl": "/bialetti",
+        "sepette": "Bialetti Moka Pot Kirmizi 1 Cup",
+        "image": "https://kahhvecom.imgix.net/urunler/757_1543556047_ZS1.jpg",
+        "url": "/bialetti-moka-pot-express-kirmizi-1-cup-moka-pot",
+        "title": "MOKA POT EXPRESS KIRMIZI 1 CUP",
+        "marka": "BIALETTI",
+        "fiyat": 149.99
+    }
+]

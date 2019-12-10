@@ -1,0 +1,32 @@
+[
+    {
+        "isAvailable": true,
+        "markaurl": "/bialetti",
+        "sepette": "Bialetti Moka Pot Tanışma Seti 3 Cup",
+        "image": "https://kahhvecom.imgix.net/urunler/135_1569671319_5Up.jpg",
+        "url": "/bialetti-moka-pot-baslangic-seti-kahve-demleme-ekipmanlari",
+        "title": "MOKA POT TANIŞMA SETI 3 CUP",
+        "marka": "BIALETTI",
+        "fiyat": 219.99
+    },
+    {
+        "isAvailable": true,
+        "markaurl": "/bialetti",
+        "sepette": "Bialetti Moka Pot Tanışma Seti 2 Cup",
+        "image": "https://kahhvecom.imgix.net/urunler/778_1569671374_THD.jpg",
+        "url": "/bialetti-moka-pot-tanisma-seti-2-cup-kahve-demleme-ekipmanlari",
+        "title": "MOKA POT TANIŞMA SETI 2 CUP",
+        "marka": "BIALETTI",
+        "fiyat": 199.99
+    },
+    {
+        "isAvailable": false,
+        "markaurl": "/bialetti",
+        "sepette": "Bialetti Moka Pot Tanışma Seti 3 Cup Pro",
+        "image": "https://kahhvecom.imgix.net/urunler/850_1569672595_xp6.jpg",
+        "url": "/bialetti-moka-pot-tanisma-seti-3-cup--pro-moka-pot",
+        "title": "MOKA POT TANIŞMA SETI 3 CUP PRO",
+        "marka": "BIALETTI",
+        "fiyat": 474.99
+    }
+]

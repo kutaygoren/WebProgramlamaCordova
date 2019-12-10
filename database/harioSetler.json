@@ -1,0 +1,42 @@
+[
+    {
+        "isAvailable": true,
+        "markaurl": "/hario",
+        "sepette": "Hario V60 Tanışma Seti",
+        "image": "https://kahhvecom.imgix.net/urunler/112_1569671179_VwG.jpg",
+        "url": "/hario-set-kahve-demleme-ekipmanlari",
+        "title": "V60 TANIŞMA SETI",
+        "marka": "HARIO",
+        "fiyat": 229.99
+    },
+    {
+        "isAvailable": false,
+        "markaurl": "/hario",
+        "sepette": "Hario Mill Skerton Tanışma Seti",
+        "image": "https://kahhvecom.imgix.net/urunler/857_1569938448_bEm.jpg",
+        "url": "/hario-mini-mill-skerton-tanisma-seti-kahve-degirmenleri",
+        "title": "MINI MILL SKERTON TANIŞMA SETI",
+        "marka": "HARIO",
+        "fiyat": 269.99
+    },
+    {
+        "isAvailable": false,
+        "markaurl": "/hario",
+        "sepette": "Hario V60 Tanışma Seti Barista",
+        "image": "https://kahhvecom.imgix.net/urunler/852_1569673649_CUv.jpg",
+        "url": "/hario-v60-tanisma-seti-barista-kahve-demleme-ekipmanlari",
+        "title": "V60 TANIŞMA SETI BARİSTA",
+        "marka": "HARIO",
+        "fiyat": 874.99
+    },
+    {
+        "isAvailable": false,
+        "markaurl": "/hario",
+        "sepette": "Hario Tanışma Seti Pro",
+        "image": "https://kahhvecom.imgix.net/urunler/851_1569673369_TX7.jpg",
+        "url": "/hario-v60-tanisma-seti-pro-kahve-demleme-ekipmanlari",
+        "title": "V60 TANIŞMA SETI PRO",
+        "marka": "HARIO",
+        "fiyat": 479.99
+    }
+]

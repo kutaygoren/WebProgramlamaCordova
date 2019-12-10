@@ -1,0 +1,42 @@
+[
+    {
+        "isAvailable": true,
+        "markaurl": "/caffe-vergnano",
+        "sepette": "Caffe Vergnano Espresso 1882",
+        "image": "https://kahhvecom.imgix.net/urunler/119_1441352400_zn1.jpg",
+        "url": "/vergnano-espresso-1882-kahveler",
+        "title": "Espresso 1882",
+        "marka": "Caffe Vergnano",
+        "fiyat": 62.99
+    },
+    {
+        "isAvailable": true,
+        "markaurl": "/caffe-vergnano",
+        "sepette": "Caffe Vergnano Arabica Çekirdek Kahvesi",
+        "image": "https://kahhvecom.imgix.net/urunler/122_1563525190_Pfu.png",
+        "url": "/vergnano-arabica-cekirdek-kahvesi-kahveler",
+        "title": "Arabica Çekirdek Kahvesi",
+        "marka": "Caffe Vergnano",
+        "fiyat": 51.99
+    },
+    {
+        "isAvailable": true,
+        "markaurl": "/caffe-vergnano",
+        "sepette": "Caffe Vergnano Arabica Moka",
+        "image": "https://kahhvecom.imgix.net/urunler/120_1441352749_Tvd.jpg",
+        "url": "/vergnano-arabica-moka-kahveler",
+        "title": "Arabica Moka",
+        "marka": "Caffe Vergnano",
+        "fiyat": 51.99
+    },
+    {
+        "isAvailable": true,
+        "markaurl": "/caffe-vergnano",
+        "sepette": "Caffe Vergnano Arabica Espresso",
+        "image": "https://kahhvecom.imgix.net/urunler/121_1443548403_g5G.jpg",
+        "url": "/vergnano-arabica-espresso",
+        "title": "Arabica Espresso",
+        "marka": "Caffe Vergnano",
+        "fiyat": 51.99
+    }
+]

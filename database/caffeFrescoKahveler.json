@@ -1,0 +1,32 @@
+[
+    {
+        "isAvailable": true,
+        "markaurl": "/caffe-fresco",
+        "sepette": "Caffe Fresco All Day Blend",
+        "image": "https://kahhvecom.imgix.net/urunler/796_1550056308_k43.jpg",
+        "url": "/caffe-fresco-all-day-blend-kahveler",
+        "title": "All Day Blend",
+        "marka": "Caffe Fresco",
+        "fiyat": 21.99
+    },
+    {
+        "isAvailable": true,
+        "markaurl": "/caffe-fresco",
+        "sepette": "Caffe Fresco Espresso Blend 1 KG",
+        "image": "https://kahhvecom.imgix.net/urunler/811_1565851189_uQt.jpg",
+        "url": "/caffe-fresco-espresso-blend-1-kg-kahveler",
+        "title": "Caffe Fresco Espresso Blend 1 KG",
+        "marka": "Caffe Fresco",
+        "fiyat": 84.99
+    },
+    {
+        "isAvailable": true,
+        "markaurl": "/caffe-fresco",
+        "sepette": "Caffe Fresco All Day Blend 1 KG",
+        "image": "https://kahhvecom.imgix.net/urunler/812_1565087080_BHZ.jpg",
+        "url": "/caffe-fresco-all-day-blend-1-kg-kahveler",
+        "title": "All Day Blend 1 KG",
+        "marka": "Caffe Fresco",
+        "fiyat": 84.99
+    }
+]

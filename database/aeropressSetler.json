@@ -1,0 +1,22 @@
+[
+    {
+        "isAvailable": true,
+        "markaurl": "/aeropress",
+        "sepette": "Aeropress Tanışma Seti",
+        "image": "https://kahhvecom.imgix.net/urunler/789_1569671404_ASZ.jpg",
+        "url": "/aeropress-aeropress-tanisma-seti-kahve-tanisma-setleri",
+        "title": "AEROPRESS TANIŞMA SETI",
+        "marka": "AEROPRESS",
+        "fiyat": 329.99
+    },
+    {
+        "isAvailable": false,
+        "markaurl": "/aeropress",
+        "sepette": "Aeropress Tanışma Seti Pro",
+        "image": "https://kahhvecom.imgix.net/urunler/855_1569674802_kdG.jpg",
+        "url": "/aeropress-aeropress-tanisma-seti-pro-kahve-demleme-ekipmanlari",
+        "title": "AEROPRESS TANIŞMA SETI PRO",
+        "marka": "AEROPRESS",
+        "fiyat": 579.99
+    }
+]

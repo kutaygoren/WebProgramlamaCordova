@@ -1,0 +1,22 @@
+[
+    {
+        "isAvailable": true,
+        "markaurl": "/bialetti",
+        "sepette": "Bialetti Gusto Dolce Öğütülmüş Kahve 250 gram",
+        "image": "https://kahhvecom.imgix.net/urunler/737_1537871362_3NA.png",
+        "url": "/bialetti-gusto-dolce-ogutulmus-kahve-250-gram-kahveler",
+        "title": "Bialetti Gusto Dolce Öğütülmüş Kahve 250 gram",
+        "marka": "Bialetti",
+        "fiyat": 79.99
+    },
+    {
+        "isAvailable": true,
+        "markaurl": "/bialetti",
+        "sepette": "Bialetti Gusto Intenso Öğütülmüş Kahve 250 gram",
+        "image": "https://kahhvecom.imgix.net/urunler/739_1542778084_QDU.jpg",
+        "url": "/bialetti-caffe-macinato--kahveler",
+        "title": "Bialetti Gusto Intenso Öğütülmüş Kahve 250 gram",
+        "marka": "Bialetti",
+        "fiyat": 79.99
+    }
+]

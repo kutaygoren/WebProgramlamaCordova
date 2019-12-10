@@ -1,0 +1,32 @@
+[
+    {
+        "isAvailable": true,
+        "markaurl": "/bialetti",
+        "sepette": "Bialetti Moka Pot Express Kırmızı 1 Cup",
+        "image": "https://kahhvecom.imgix.net/urunler/751_1561111234_Gug.jpg",
+        "url": "/bialetti-moka-pot-express-kirmizi-1-cup-moka-pot",
+        "title": "MOKA POT EXPRESS KIRMIZI 1 CUP",
+        "marka": "BIALETTI",
+        "fiyat": 149.99
+    },
+    {
+        "isAvailable": true,
+        "markaurl": "/bialetti",
+        "sepette": "Bialetti Orzo Express",
+        "image": "https://kahhvecom.imgix.net/urunler/456_1492581342_zGf.jpg",
+        "url": "/bialetti-orzo-express-kahve-demleme-ekipmanlari",
+        "title": "ORZO EXPRESS",
+        "marka": "BIALETTI",
+        "fiyat": 129.99
+    },
+    {
+        "isAvailable": false,
+        "markaurl": "/bialetti",
+        "sepette": "Bialetti Moka Pot Alpina 3 Cup",
+        "image": "https://kahhvecom.imgix.net/urunler/76_1444578738_YZI.jpg",
+        "url": "/bialetti-moka-pot-alpini-3-cup-kahve-demleme-ekipmanlari",
+        "title": "MOKA POT ALPINA 3 CUP",
+        "marka": "BIALETTI",
+        "fiyat": 219.99
+    }
+]

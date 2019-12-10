@@ -1,0 +1,32 @@
+[
+    {
+        "isAvailable": true,
+        "markaurl": "/chemex",
+        "sepette": "Chemex Beyaz Filtre 6-8 Cup",
+        "image": "https://kahhvecom.imgix.net/urunler/50_1440881161_NU3.jpg",
+        "url": "/chemex-beyaz-filtre-filtreler",
+        "title": "BEYAZ FILTRE 6-8 CUP",
+        "marka": "CHEMEX",
+        "fiyat": 74.99
+    },
+    {
+        "isAvailable": true,
+        "markaurl": "/chemex",
+        "sepette": "Chemex Ahşap Tutacaklı 6 Cup",
+        "image": "https://kahhvecom.imgix.net/urunler/47_1439898391_u6Z.jpg",
+        "url": "/chemex-ahsap-tutacakli-6-cup-kahve-demleme-ekipmanlari",
+        "title": "AHŞAP TUTACAKLI 6 CUP",
+        "marka": "CHEMEX",
+        "fiyat": 379.99
+    },
+    {
+        "isAvailable": true,
+        "markaurl": "/chemex",
+        "sepette": "Chemex Ahşap Tutacaklı 8 Cup",
+        "image": "https://kahhvecom.imgix.net/urunler/133_1468588393_zow.jpg",
+        "url": "/chemex-ahsap-tutacakli-8-cup-kahve-demleme-ekipmanlari",
+        "title": "AHŞAP TUTACAKLI 8 CUP",
+        "marka": "CHEMEX",
+        "fiyat": 399.99
+    }
+]
